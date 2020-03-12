@@ -1,2 +1,2 @@
 # cantonese_studies
-KCL Intro to DH project
+KCL Intro to DH group project
